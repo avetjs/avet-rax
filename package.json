@@ -1,0 +1,37 @@
+{
+  "name": "avet-rax",
+  "version": "0.1.0",
+  "description": "rax plugin for avet",
+  "avetPlugin": {
+    "name": "rax"
+  },
+  "keywords": [
+    "avet",
+    "avetPlugin",
+    "avet-plugin",
+    "rax"
+  ],
+  "dependencies": {
+    "rax": "^0.4.20",
+    "rax-dom": "^0.4.20",
+    "rax-server-renderer": "^0.4.20"
+  },
+  "devDependencies": {
+    "avet-bin": "0.2.0"
+  },
+  "author": "okoala <dapixp@gmail.com>",
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "files": [
+    "config",
+    "page",
+    "extend",
+    "dist",
+    "app.js"
+  ],
+  "ci": {
+    "version": "8"
+  },
+  "license": "MIT"
+}
