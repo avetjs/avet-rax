@@ -12,9 +12,9 @@
     "rax"
   ],
   "dependencies": {
-    "rax": "^0.4.20",
-    "rax-dom": "^0.4.20",
-    "rax-server-renderer": "^0.4.20"
+    "rax": "0.4.20",
+    "rax-dom": "0.4.20",
+    "rax-server-renderer": "0.4.20"
   },
   "devDependencies": {
     "avet-bin": "0.2.0"
